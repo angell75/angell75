@@ -2,7 +2,6 @@
 
 ### 🚀 About Me
 - 🎓 **Bachelor of Science (Hons) in Software Engineering** from Asia Pacific University of Technology & Innovation (APU)
-  - **CGPA:** 3.2/4
   - **Specialization:** Software Engineering
   - **Final Year Project:** Integrated Pet Adoption and Welfare System (PAWS)
 - 💼 **Web Developer Intern** at Appify Technology (Aug 2023 - Nov 2023)
