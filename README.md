@@ -10,7 +10,7 @@
 - 💼 **Brand Project Manager** at **Hytech Technology** *(Nov 2025 – Present)*  
   - Manage **brand and web projects** across global trading brands, ensuring consistency and timely delivery  
   - Collaborate with marketing, product, and tech teams to execute **campaigns and site revamps**  
-  - Oversee creative asset production, branding content, and project timelines using **Jira** and **Confluence**
+  - Oversee creative asset production, branding content, and project timelines using **Lark**
 
 - 💼 **Product Owner (CFD Trading Platform)** at **Doo Technology MY** *(Oct 2024 – Oct 2025)*  
   - Led the **IB Sales**, **Rebate**, and **Commission** modules  
