@@ -1,14 +1,28 @@
 ## Hi there 👋 I'm Lau Zhi Kee!
 
+## Hi there 👋 I'm Lau Zhi Kee!
+
 ### 🚀 About Me
-- 🎓 **Bachelor of Science (Hons) in Software Engineering** from Asia Pacific University of Technology & Innovation (APU)
-  - **Specialization:** Software Engineering
+- 🎓 **Bachelor of Science (Hons) in Software Engineering** from Asia Pacific University of Technology & Innovation (APU)  
+  - **Specialization:** Software Engineering  
   - **Final Year Project:** Integrated Pet Adoption and Welfare System (PAWS)
-- 💼 **Web Developer Intern** at Appify Technology (Aug 2023 - Nov 2023)
-  - Built websites using **Figma** and **WordPress** (Gogokids Events, Sunsuria Landscapes, The Oak Tree)
-  - Gained hands-on experience in mobile app development with **React Native** (Milkadeal)
-- 🌱 Currently enhancing skills in **React Native** and **advanced PHP**
-- 💬 Passionate about software development, project management, and solving real-world problems with technology.
+
+- 💼 **Brand Project Manager** at **Hytech Technology** *(Nov 2025 – Present)*  
+  - Manage **brand and web projects** across global trading brands, ensuring consistency and timely delivery  
+  - Collaborate with marketing, product, and tech teams to execute **campaigns and site revamps**  
+  - Oversee creative asset production, branding content, and project timelines using **Jira** and **Confluence**
+
+- 💼 **Product Owner (CFD Trading Platform)** at **Doo Technology MY** *(Oct 2024 – Oct 2025)*  
+  - Led the **IB Sales**, **Rebate**, and **Commission** modules  
+  - Defined product requirements, coordinated development, QA, and documentation  
+  - Supported trading operations across **MT4/MT5**, **oneZero**, and **PrimeXM**
+
+- 💻 **Web Developer Intern** at **Appify Technology** *(Aug 2023 – Nov 2023)*  
+  - Built websites using **Figma** and **WordPress** (Gogokids Events, Sunsuria Landscapes, The Oak Tree)  
+  - Developed mobile app features with **React Native** (*Milkadeal*)
+
+- 🌱 Currently enhancing skills in **React Native**, **Next.js**, and **product management frameworks**  
+- 💬 Passionate about **software development**, **digital product strategy**, and **solving real-world problems with technology**
 
 ### 🛠️ Skills & Technologies
 - **Programming Languages:**
