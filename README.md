@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm Lau Zhi Kee!
 
-## Hi there 👋 I'm Lau Zhi Kee!
-
 ### 🚀 About Me
 - 🎓 **Bachelor of Science (Hons) in Software Engineering** from Asia Pacific University of Technology & Innovation (APU)  
   - **Specialization:** Software Engineering  
